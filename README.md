@@ -1,1 +1,1 @@
-# This is the Simon game using Html,Css & JavaScript
+# This is the Simon game using -> Html,Css & JavaScript
